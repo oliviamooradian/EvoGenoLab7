@@ -4,6 +4,4 @@ title: "About"
 
 Olivia Mooradian
 
-```{r}
-1 + 1
-```
+![Olivia](images/PicLab2_Rmarkdown_.png)
