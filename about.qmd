@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-About this site
+Olivia Mooradian
 
 ```{r}
 1 + 1
