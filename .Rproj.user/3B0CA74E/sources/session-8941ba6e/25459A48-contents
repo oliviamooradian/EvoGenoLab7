@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Olivia Mooradian Lab 7"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd 
+        text: About
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: true
+
+editor: visual
+
