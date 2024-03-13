@@ -5,4 +5,3 @@ title: "About"
 Olivia Mooradian
 
 ![Olivia](images/PicLab2_Rmarkdown_.png)
-
